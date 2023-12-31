@@ -5,7 +5,7 @@ I'm a Fullstack Developer in both Web and Mobile application.
 I love Flutter & Javascript.
 My idea is to learn by creating products, Keeping up with the tech trends and adapting it if its good.
 
-When I'm not working, I'm probably exploring a fantasy or sci-fi world through games or movies, or trying out different kinds of food 🍜
+When I'm not working, I'm probably in the Gym or with my Boxing bag, or trying out different kinds of food 🍜
 
 ### What am I doing, Right now ?
 
