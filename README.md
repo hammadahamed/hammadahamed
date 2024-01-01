@@ -3,7 +3,7 @@
 I'm a Fullstack Developer in both Web and Mobile application.
 
 I love Flutter & Javascript.
-My idea is to learn by creating products, Keeping up with the tech trends and adapting it if its good.
+My idea is to learn by creating products, Keeping up with the tech trends and adopting it if its good.
 
 When I'm not working, I'm probably working-out in the Gym or with my Boxing bag, or trying out different kinds of food 🍜
 
